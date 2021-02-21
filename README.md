@@ -4,7 +4,7 @@ This repository aggregates my scripts and write-ups for retired HackTheBox machi
 
 ## Machines
 
-* TODO
+* [Curling](https://github.com/ahkrichards/htb-curling)
 
 ## Challenges
 
