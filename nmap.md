@@ -4,7 +4,7 @@ A tool used for network discovery and port scanning.
 
 ## Useful Alias
 
-See [.bash_aliases](./bash_aliases) for the following useful command:
+See [.bash_aliases](./.bash_aliases) for the following useful command:
 
 ```Shell
 nmap -T4 -A -F -Pn {target}
