@@ -1,0 +1,3 @@
+[submodule "opt/LinEnum"]
+	path = opt/LinEnum
+	url = git@github.com:rebootuser/LinEnum.git
