@@ -1,3 +1,6 @@
 [submodule "opt/LinEnum"]
 	path = opt/LinEnum
 	url = git@github.com:rebootuser/LinEnum.git
+[submodule "opt/evil-winrm"]
+	path = opt/evil-winrm
+	url = git@github.com:Hackplayers/evil-winrm.git
