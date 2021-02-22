@@ -10,6 +10,12 @@ This repository aggregates my scripts and write-ups for retired HackTheBox machi
 
 * TODO
 
+## Templates
+
+| Template | Description |
+|----------|-------------|
+| [py-exploit-boilerplate](https://github.com/ahkrichards/py-exploit-boilerplate) | I use this template to write PoC code automating exploitation. |
+
 ## Write-Up Guidelines
 
 To keep a uniformity on the write-ups, use the following style guide:
